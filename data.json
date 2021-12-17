@@ -1,0 +1,18 @@
+{
+    "version":"v2",
+    "intents": {
+        "track_parcel":{
+            "includes":[
+                "track parcel",
+                "track package",
+                "where is my package"
+            ]
+        },
+    "missed_delivery":{
+        "includes":[
+            "I missed the delivery",
+            "missed my delivery"
+        ]
+    }
+    }
+}
